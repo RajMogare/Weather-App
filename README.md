@@ -15,5 +15,3 @@ A fully responsive weather application built with HTML, CSS, and JavaScript. Thi
 - HTML5
 - CSS3
 - JavaScript (ES6)
-
-\
